@@ -45,6 +45,14 @@ pip install -r requirements.txt
 
 ---
 
+## DB Sync
+```bash
+http://127.0.0.1:5000/sync
+```
+
+
+
+--- 
 ## Check cves 
 ```bash
 http://127.0.0.1:5000/api/cves
@@ -81,6 +89,10 @@ http://127.0.0.1:5000/api/cves?year=1999-0082
 ---
 
 <img width="1919" height="894" alt="Screenshot 2026-02-25 113129" src="https://github.com/user-attachments/assets/6767e531-df91-4a3e-8134-f63a6ff67730" />
+
+---
+
+## 𝒦𝒶𝓋𝒾𝓃𝓀𝓊𝓂𝒶𝓇 𝒩
 
 
 
