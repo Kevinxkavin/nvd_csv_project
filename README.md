@@ -49,6 +49,8 @@ pip install -r requirements.txt
 ```bash
 http://127.0.0.1:5000/sync
 ```
+<img width="1919" height="1016" alt="Screenshot 2026-02-25 140242" src="https://github.com/user-attachments/assets/2bd3763d-3655-40ce-bc11-9381d81a7d31" />
+
 
 
 
