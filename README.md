@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ---
 
 
-Queries
+## Queries
 
 <img width="810" height="443" alt="Screenshot 2026-02-25 104506" src="https://github.com/user-attachments/assets/4089b1ee-dff3-4f77-aef0-9086be80837f" />
 
