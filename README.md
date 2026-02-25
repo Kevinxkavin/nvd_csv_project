@@ -33,6 +33,13 @@ http://127.0.0.1:5000/api/cves?min_score=9
 
 <img width="1214" height="752" alt="image" src="https://github.com/user-attachments/assets/dfcd4c2b-593f-4f6e-a936-bbd3f83db61f" />
 
+Filter by year 
+
+http://127.0.0.1:5000/api/cves?year=1999-0082
+
+<img width="600" height="307" alt="image" src="https://github.com/user-attachments/assets/2f0f20cf-7572-44fc-a9de-a60bceb77bfc" />
+
+
 
 
 
