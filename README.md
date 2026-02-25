@@ -2,6 +2,8 @@ NVD - CVE API:
 The CVE API is used to easily retrieve information on a single CVE or a collection of
 CVE from the NVD.
 
+PYTHON FLASK - MYSQL
+
 <img width="1919" height="894" alt="Screenshot 2026-02-25 113129" src="https://github.com/user-attachments/assets/6767e531-df91-4a3e-8134-f63a6ff67730" />
 
 Queries
